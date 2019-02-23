@@ -1,0 +1,23 @@
+header {
+  width: 1000px;
+  height: 50px;
+  margin-top: 25%;
+  background: #303F9F;
+  text-align: center;
+  margin: auto;
+  border: 1px solid #999999; }
+
+section {
+  box-align: center;
+  float: left;
+  width: 50%;
+  margin-left: 350px;
+  text-align: left; }
+  section #carrera {
+    text-align: center; }
+
+footer {
+  height: 200px;
+  width: 1000px; }
+
+/*# sourceMappingURL=estilos.css.map */
